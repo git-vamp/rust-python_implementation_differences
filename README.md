@@ -1,4 +1,5 @@
-# rust_python_sidebyside_learning_repo_Public
+# rust/python_implementation_differences
+Public
 ### just a fun repo, created to test difference in way to implement same idea in two different programming language likes rust and python
 
 ## Projects in the repo:
